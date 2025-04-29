@@ -103,8 +103,7 @@ SERVER:
 	# Close the connection
 	conn.close()
 	server_socket.close()
-	```
-
+```
 OUTPUT CLIENT:
 ![alt text](image.png)
 
