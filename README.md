@@ -74,9 +74,9 @@ Client:
 	
 	# Close the connection
 	client_socket.close()
-	```
+	
 	SERVER:
-	```
+	
 		import socket
 	
 	# Create a socket object
