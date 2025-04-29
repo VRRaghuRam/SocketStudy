@@ -105,9 +105,13 @@ SERVER:
 	server_socket.close()
 ```
 OUTPUT CLIENT:
+
+
 ![alt text](image.png)
 
 SERVER:
+
+
 ![alt text](image-1.png)
 
 
