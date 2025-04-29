@@ -75,8 +75,8 @@ Client:
 	# Close the connection
 	client_socket.close()
 	
-	SERVER:
-	
+SERVER:
+```	
 		import socket
 	
 	# Create a socket object
@@ -103,7 +103,7 @@ Client:
 	# Close the connection
 	conn.close()
 	server_socket.close()
-	'''
+'''
 
 	OUTPUT CLIENT:
 	![alt text](image.png)
